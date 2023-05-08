@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="@localhost">
+  <database-model serializer="dbm" dbms="MYSQL" family-id="MYSQL" format-version="4.45">
+    <root id="1">
+      <DefaultCasing>mixed/mixed</DefaultCasing>
+      <ServerVersion>8.0.32</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="QLBHDINHVANKHIET"/>
+    <schema id="3" parent="1" name="QuanLyNhapXuat"/>
+    <schema id="4" parent="1" name="QuanLySinhVien"/>
+    <schema id="5" parent="1" name="SS2bt1"/>
+    <schema id="6" parent="1" name="SS3TH2"/>
+    <schema id="7" parent="1" name="SS3bt2"/>
+    <schema id="8" parent="1" name="StudentTest"/>
+    <schema id="9" parent="1" name="classicmodels"/>
+    <schema id="10" parent="1" name="crud"/>
+    <schema id="11" parent="1" name="demo"/>
+    <schema id="12" parent="1" name="demoquanlysv"/>
+    <schema id="13" parent="1" name="information_schema"/>
+    <schema id="14" parent="1" name="mysql"/>
+    <schema id="15" parent="1" name="performance_schema"/>
+    <schema id="16" parent="1" name="qlsp1"/>
+    <schema id="17" parent="1" name="qlsv"/>
+    <schema id="18" parent="1" name="shopmanager"/>
+    <schema id="19" parent="1" name="ss5bt"/>
+    <schema id="20" parent="1" name="test2"/>
+    <schema id="21" parent="1" name="thuchanh2"/>
+  </database-model>
+</dataSource>
